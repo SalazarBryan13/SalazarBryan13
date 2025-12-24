@@ -10,11 +10,13 @@
 - Bases de datos (Supabase,MySQL,Postgres)
 - Buenas prácticas en DevOps y clean code
 
+### Proyectos destacados
+
 - **[Chatbot Anti-Toxicidad para Twitch](https://github.com/SalazarBryan13/Chatbot-Twitch.git)**  
 
   Bot inteligente que modera automáticamente chats de Twitch, detectando y eliminando mensajes tóxicos en tiempo real. Utiliza procesamiento de lenguaje natural y machine learning para proteger a streamers y comunidades, mejorando la experiencia de los espectadores y reduciendo la carga de moderación manual. Desarrollado con Python, TensorFlow.  
 
-  → [Ver repositorio](link) | ⭐ X stars
+
 
 ###  Busco colaborar en...
 - Proyectos open source relacionados con inteligencia artificial, machine learning ,deep learning.
