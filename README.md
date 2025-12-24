@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Bryan Salazar
 
-**Estudiante de Ingeniería en Software** en la **Escuela Politécnica Nacional (EPN)**, Quito, Ecuador.
+**Sobre mi**
 
 Soy de Quito, Ecuador 🇪🇨, y actualmente estoy cursando Ingeniería en Software en la Escuela Politécnica Nacional.
 Me gusta desarrollar aplicaciones con Java , desarrollar proyectos de Machine Learning con Python, crear aplicaciones web modernas y dominar el manejo de datos con SQL.
