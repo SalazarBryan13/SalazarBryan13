@@ -9,8 +9,6 @@ Lo que más disfruto es el aprendizaje constante: ya sea adquiriendo nuevas herr
 ### Actualmente estoy aprendiendo...
 - Inteligencia Artificial y Machine Learning (con Python, TensorFlow/PyTorch)
 - Desarrollo web full-stack (React,Django)
-- Bases de datos (Supabase,MySQL,Postgres)
-- Buenas prácticas en DevOps y clean code
 
 ### Proyectos destacados
 
