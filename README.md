@@ -10,32 +10,16 @@
 - Bases de datos (Supabase,MySQL,Postgres)
 - Buenas prácticas en DevOps y clean code
 
-### 🔭 Proyectos destacados
-- **[Nombre del proyecto más importante]**  
-  Descripción breve: Por ejemplo, "Una app web para [función], desarrollada con [tecnologías]. Resuelve [problema real, ej. gestión de datos en Ecuador]."  
-  ![Screenshot o demo si tienes](ruta-a-imagen.png)  
-  → [Ver repositorio](link-al-repo) | ⭐ X stars
+- **[Chatbot Anti-Toxicidad para Twitch](https://github.com/SalazarBryan13/Chatbot-Twitch.git)**  
 
-- **[Otro proyecto bueno]**  
-  Descripción: "Sistema de [algo], con features como [lista]."  
-  → [Ver repositorio](link)
+  Bot inteligente que modera automáticamente chats de Twitch, detectando y eliminando mensajes tóxicos en tiempo real. Utiliza procesamiento de lenguaje natural y machine learning para proteger a streamers y comunidades, mejorando la experiencia de los espectadores y reduciendo la carga de moderación manual. Desarrollado con Python, TensorFlow.  
 
-- **[Proyecto 3]**  
-  ...
+  → [Ver repositorio](link) | ⭐ X stars
 
-(Elige 3-4 proyectos pinnables. El más impactante ponlo primero. Si tienes uno con más commits, stars o que usa tecnologías modernas, ese es el clave.)
-
-### 👯 Busco colaborar en...
-- Proyectos open source relacionados con educación, medio ambiente o tecnología en Ecuador
-- Apps móviles/web con impacto social
-- Machine Learning aplicado a problemas locales
-
-### 🤔 Busco ayuda con...
-- Mejores prácticas en despliegue de apps (Docker, AWS, etc.)
-- Preparación para becas/internships internacionales (ej. master en Data Science/AI)
-
+###  Busco colaborar en...
+- Proyectos open source relacionados con inteligencia artificial, machine learning ,deep learning.
 
 ### 📫 Cómo contactarme
-- Email: tuemail@estudiante.epn.edu.ec (o personal)
+- Email: anderafa11@hotmail.com
 - LinkedIn: [linkedin.com/in/tu-perfil](link)
-- X/Twitter: [@tuusuario](link)
+
