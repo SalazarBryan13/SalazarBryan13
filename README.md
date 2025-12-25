@@ -27,5 +27,5 @@ Lo que más disfruto es el aprendizaje constante: ya sea estudiando lenguajes de
 
 ### 📫 Cómo contactarme
 - Email: anderafa11@hotmail.com
-- LinkedIn: [linkedin.com/in/tu-perfil](link)
+
 
