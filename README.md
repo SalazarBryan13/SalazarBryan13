@@ -4,7 +4,7 @@
 
 Soy de Quito, Ecuador 🇪🇨, y actualmente estoy cursando Ingeniería en Software en la Escuela Politécnica Nacional.
 Me gusta desarrollar aplicaciones con Java , desarrollar proyectos de Machine Learning con Python, crear aplicaciones web modernas y dominar el manejo de datos con SQL.
-Lo que más disfruto es el aprendizaje constante: ya sea adquiriendo nuevas herramientas de programación, aprendiendo nuevos idiomas , descubriendo la gastronomía de otros países o escuchando música.
+Lo que más disfruto es el aprendizaje constante: ya sea estudiando lenguajes de programación, aprendiendo nuevos idiomas , descubriendo la gastronomía de otros países o escuchando música.
 
 ### Actualmente estoy aprendiendo...
 - Inteligencia Artificial y Machine Learning (con Python, TensorFlow/PyTorch)
