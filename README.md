@@ -14,7 +14,11 @@ Lo que más disfruto es el aprendizaje constante: ya sea adquiriendo nuevas herr
 
 - **[Chatbot Anti-Toxicidad para Twitch](https://github.com/SalazarBryan13/Chatbot-Twitch.git)**  
 
-  Bot inteligente que modera automáticamente chats de Twitch, detectando y eliminando mensajes tóxicos en tiempo real. Utiliza procesamiento de lenguaje natural y machine learning para proteger a streamers y comunidades, mejorando la experiencia de los espectadores y reduciendo la carga de moderación manual. Desarrollado con Python, TensorFlow.  
+  Bot inteligente que modera automáticamente chats de Twitch, detectando y eliminando mensajes tóxicos en tiempo real. Utiliza procesamiento de lenguaje natural y machine learning para proteger a streamers y comunidades, mejorando la experiencia de los espectadores y reduciendo la carga de moderación manual. Desarrollado con Python, TensorFlow.
+
+- **[Aplicación de gestión de eventos](https://github.com/SalazarBryan13/Tickets-Eventos.git)**  
+
+  Sistema web de gestión y venta de entradas para eventos. Incluye generación de tickets digitales con códigos QR, gestión de comprobantes de pago y administración de eventos.
 
 
 
